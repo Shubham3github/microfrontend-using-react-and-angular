@@ -1,0 +1,36 @@
+.login-form {
+  width: 95%;
+  /* max-width: 330px; */
+  /* padding: 10px; */
+  margin: auto;
+  height: 100%;
+  border: 1px solid rgba(0, 0, 0, .125);
+  margin: 20px 10px 170px 10px;
+
+}
+
+
+.btn {
+  width: 100%;
+  display: initial !important;
+}
+
+.Welcome {
+  padding: 0.75rem 1.25rem;
+  margin-bottom: 0;
+  background-color: rgba(0, 0, 0, .03);
+  border-bottom: 1px solid rgba(0, 0, 0, .125);
+}
+
+.img {
+  display: flex;
+  margin-top: 50px;
+  max-width: 70px;
+  align-items: center;
+}
+
+.mb-3 {
+  padding:10px !important;
+  background-color: #fff;
+  margin-bottom: 0px !important;
+}
